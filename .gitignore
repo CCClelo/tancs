@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Runtime data
+*.log
+logs/
+*.pid
+*.seed
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
